@@ -1,0 +1,15 @@
+.bundle/
+.yardoc/
+log/*.log
+pkg/
+doc/
+spec/dummy/db/*.sqlite3
+spec/dummy/db/*.sqlite3-journal
+spec/dummy/db/*.sqlite3-*
+spec/dummy/log/*.log
+spec/dummy/storage/
+spec/dummy/tmp/
+spec/lib/generators/tmp/
+Gemfile.lock
+.rake_tasks~
+coverage/

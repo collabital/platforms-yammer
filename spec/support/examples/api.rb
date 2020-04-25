@@ -1,0 +1,5 @@
+require 'support/examples/api/endpoint'
+require 'support/examples/api/get'
+require 'support/examples/api/post'
+require 'support/examples/api/put'
+require 'support/examples/api/delete'

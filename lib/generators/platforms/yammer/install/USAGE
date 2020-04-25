@@ -1,0 +1,11 @@
+Description:
+    This will install the required migrations, and set up initializers
+
+Example:
+    rails generate platforms:yammer:install
+
+    This will create:
+      The initializer in config/initializers/platforms_yammer.rb
+      Run $ rails generate platforms:core:install
+
+      Note that it will not run the migrations
